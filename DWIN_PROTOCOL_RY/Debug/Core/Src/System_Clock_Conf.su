@@ -1,0 +1,6 @@
+../Core/Src/System_Clock_Conf.c:9:13:system_clock_init_to_72MHZ	8	static
+../Core/Src/System_Clock_Conf.c:25:10:Get_Sys_Clk_Freq	32	static
+../Core/Src/System_Clock_Conf.c:54:10:Get_Ahb_Freq	88	static
+../Core/Src/System_Clock_Conf.c:61:10:Get_Apb1_Freq	56	static
+../Core/Src/System_Clock_Conf.c:68:10:Get_Apb2_Freq	56	static
+../Core/Src/System_Clock_Conf.c:74:6:System_Clock_Init	8	static
